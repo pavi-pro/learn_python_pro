@@ -1,0 +1,6 @@
+Name=input("what is your name?"+" ")
+Mobilenumber=(input("what is your mobile number?"+" "))
+print(f"UserName{Name} {Mobilenumber}")
+lengthofName=len(Name)
+lengthofMobilenumber=len(Mobilenumber)
+print(lengthofName,lengthofMobilenumber )
