@@ -1,0 +1,5 @@
+print()
+print("Thushiv & Thushya")
+print("12")
+print("i want to be a independent person('self love')")
+print('"welcome all to the lovely place"')
